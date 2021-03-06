@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#additional_fee_choice_field label {
+  display: inline-block !important;
+  width: 95%;
+}
+
+#additional_fee_choice_field input {
+  display: inline-block !important;
+  width: 3%;
+}
